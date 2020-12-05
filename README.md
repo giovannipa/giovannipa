@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Giovanni, I'm a developer using mainly PHP and Python. I love Linux and everything comes from it.
+
+
 <!--
 **giovannipa/giovannipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
